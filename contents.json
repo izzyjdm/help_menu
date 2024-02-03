@@ -4,19 +4,4 @@
         "title": "[ROLEPLAY] ROLEPLAY RULES",
         "content": "<div class=\"category-content\"><h1 class=\"category-title\" style=\"color: #ee00dd; font-size: 2.5em; text-transform: uppercase;\">ROLEPLAY RULES</h1><p style=\"color: #ffffff; font-size: 1.5em;\">Welcome to ProjectRP, where your roleplay journey begins! To ensure an immersive experience, please follow these roleplay rules:</p><ol class=\"category-list\"><li><strong>Character Creation:</strong> Craft a realistic character with a detailed background.</li><li><strong>Respect:</strong> Treat all players with respect, both in and out of character.</li><li><strong>Metagaming:</strong> Avoid using out-of-character knowledge in your roleplay actions.</li><li><strong>Powergaming:</strong> Play your character realistically without overpowered actions.</li><li><strong>Roleplay Language:</strong> Use appropriate language and adhere to server guidelines.</li></ol><p style=\"color: #ffffff; font-size: 1.5em;\">These rules contribute to a vibrant roleplay environment. Be sure to check for any additional server-specific rules.</p></div>"
     },
-    {
-        "slug": "-info",
-        "title": "[INFO] SERVER INFORMATION",
-        "content": "<div class=\"category-content\"><h1 class=\"category-title\" style=\"color: #ee00dd; font-size: 2.5em; text-transform: uppercase;\">SERVER INFORMATION</h1><p style=\"color: #ffffff; font-size: 1.5em;\">Discover the essence of ProjectRP, a server filled with exciting adventures! Here's some key information:</p><ul class=\"category-list\"><li><strong>Server Type:</strong> Roleplay</li><li><strong>Population:</strong> Thriving community with diverse characters</li><li><strong>Mods:</strong> Custom mods for an enhanced gaming experience</li><li><strong>Events:</strong> Regular events for added excitement</li></ul><p style=\"color: #ffffff; font-size: 1.5em;\">Embark on an epic journey and become part of our vibrant community!</p></div>"
-    },
-    {
-        "slug": "-events",
-        "title": "[EVENTS] UPCOMING EVENTS",
-        "content": "<div class=\"category-content\"><h1 class=\"category-title\" style=\"color: #ee00dd; font-size: 2.5em; text-transform: uppercase;\">UPCOMING EVENTS</h1><p style=\"color: #ffffff; font-size: 1.5em;\">Prepare for thrilling events that will keep you on the edge of your seat! Check out our upcoming events:</p><ul class=\"category-list\"><li><strong>Tournament of Heroes:</strong> Compete for glory in an epic tournament</li><li><strong>Mystery Quest:</strong> Unravel the secrets of a mysterious quest</li><li><strong>Community Gathering:</strong> Socialize and make new allies</li></ul><p style=\"color: #ffffff; font-size: 1.5em;\">Mark your calendars, and don't miss out on these exciting adventures!</p></div>"
-    },
-    {
-        "slug": "-faq",
-        "title": "[FAQ] FREQUENTLY ASKED QUESTIONS",
-        "content": "<div class=\"category-content\"><h1 class=\"category-title\" style=\"color: #ee00dd; font-size: 2.5em; text-transform: uppercase;\">FREQUENTLY ASKED QUESTIONS</h1><p style=\"color: #ffffff; font-size: 1.5em;\">Explore answers to common questions and get acquainted with ProjectRP basics:</p><dl class=\"category-definition\"><dt style=\"color: #ffffff; font-size: 1.5em;\">Q: How do I join the server?</dt><dd style=\"color: #ffffff; font-size: 1.5em;\">A: Follow the registration process on our website to start your adventure.</dd><dt style=\"color: #ffffff; font-size: 1.5em;\">Q: Are there specific rules for character creation?</dt><dd style=\"color: #ffffff; font-size: 1.5em;\">A: Yes, guidelines ensure realistic and engaging characters.</dd><dt style=\"color: #ffffff; font-size: 1.5em;\">Q: Can I suggest ideas for future events?</dt><dd style=\"color: #ffffff; font-size: 1.5em;\">A: Absolutely! We encourage community input for exciting events.</dd></dl></div>"
-    }
 ]
